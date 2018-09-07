@@ -2,6 +2,8 @@
 
 A test project of GraphQL.
 
+Currently deployed here: [https://graphql-poke-test-eakvaearvm.now.sh/](https://graphql-poke-test-eakvaearvm.now.sh/)
+
 ## Setup
 
 `npm install`
