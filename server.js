@@ -132,7 +132,7 @@ const schema = new GraphQLSchema({
   query: queryType
 })
 
-server.use('/graphql', graphqlHTTP({
+server.use('/', graphqlHTTP({
   schema,
   graphiql: true
 }))
